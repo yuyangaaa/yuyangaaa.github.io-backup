@@ -1,0 +1,12 @@
+title: Yuyang 的博客
+description: 记录算法、c++、Linux与编程学习
+author: Yuyang
+
+lang: zh-CN
+timezone: Asia/Shanghai
+
+theme: minima
+
+markdown: kramdown
+
+permalink: /posts/:title/
